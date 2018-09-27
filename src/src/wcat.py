@@ -1,4 +1,36 @@
-# Copyright (c) 2014 Energistics   .
+﻿#! /usr/bin/env python
+# License notice
+#  
+# Copyright 2014
+# 
+# Third Party Software
+# Teytech Inc. Version 1.0
+#
+# Energistics 
+# The following Energistics (c) products were used in the creation of this work: 
+# 
+# •             WITSML Data Schema Specifications, Version 1.4.1.1 
+# 
+# All rights in the WITSML™ Standard, the PRODML™ Standard, and the RESQML™ Standard, or
+# any portion thereof, which remain in the Standards DevKit shall remain with Energistics
+# or its suppliers and shall remain subject to the terms of the Product License Agreement
+# available at http://www.energistics.org/product-license-agreement. 
+# 
+# Apache
+# Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file
+# except in compliance with the License. 
+# 
+# You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+# 
+# Unless required by applicable law or agreed to in writing, software distributed under the
+# License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+# either express or implied. 
+# 
+# See the License for the specific language governing permissions and limitations under the
+# License.
+# 
+# All rights reserved. 
+# 
 #
 import sys
 import os
@@ -30,7 +62,7 @@ APP_VERSION = 'Version 1.0'
 APP_INFO = """This product was developed
 by TeyTech Inc. for Energistics
 
-Copyright (c) 2014
+
 
 """        
 
